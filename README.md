@@ -32,23 +32,8 @@ Em paralelo, estudo **Front-End**, buscando evoluir tecnicamente e ampliar meu l
 
 ---
 
-## 🏀 Um pouco além do código
-
-Assim como no basquete, desenvolvimento pra mim é sobre **disciplina, constância e evolução diária**.  
-Nem todo jogo é perfeito, nem todo código sai limpo de primeira — mas cada ajuste melhora o desempenho.
-
-Cada projeto é um novo jogo.  
-Cada bug é um desafio.  
-Cada solução é ponto no placar. 🏀🔥
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280" />
-</p>
-
----
-
 ## 📫 Contato
 
-- 💼 **LinkedIn:** *(https://www.linkedin.com/in/alexandre-a-b008121b2/)*  
+- 💼 **LinkedIn:** *https://www.linkedin.com/in/alexandre-a-b008121b2/*  
 
 
