@@ -34,6 +34,8 @@ Em paralelo, estudo **Front-End**, buscando evoluir tecnicamente e ampliar meu l
 
 ## 📫 Contato
 
-- 💼 **LinkedIn:** *https://www.linkedin.com/in/alexandre-a-b008121b2/*  
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandre-a-b008121b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
