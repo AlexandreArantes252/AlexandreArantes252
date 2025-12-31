@@ -2,22 +2,23 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todo dia
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AlexandreArantes252
-          snake_color: "#F57C00"
-          background: "#0d1117"
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
