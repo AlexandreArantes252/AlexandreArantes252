@@ -3,7 +3,7 @@
 **`Desenvolvedor | Power Platform | Front-End`**
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/lebron-dunk-lebron-james-levronjame-gif-1038771198631298897" width="500" />
+  <img src="./img/afc32f9251af35791593f1c31f7c814c.gif" width="500" />
 </p>
 
 
