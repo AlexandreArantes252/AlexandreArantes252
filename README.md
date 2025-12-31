@@ -3,7 +3,7 @@
 **`Desenvolvedor | Power Platform | Front-End`**
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb252dGMzcmxnY3Zha2Fqb3huNzQ5cW9rZHZnOGJyeWw4a3dkbzgyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTnl3EgLZNtz13owCK/giphy.gif" width="300" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb252dGMzcmxnY3Zha2Fqb3huNzQ5cW9rZHZnOGJyeWw4a3dkbzgyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTnl3EgLZNtz13owCK/giphy.gif" width="500" />
 </p>
 
 
