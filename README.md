@@ -12,38 +12,9 @@ Olá! 👋
 Me chamo **Alexandre Arantes**, tenho 21 anos e sou formado em **Análise e Desenvolvimento de Sistemas** pela **FATEC Sorocaba**.  
 Atualmente, atuo profissionalmente na **ABB**, trabalhando com **desenvolvimento de soluções e digitalização de processos**, utilizando a **Power Platform** como principal stack no meu dia a dia.
 
----
+No trabalho, desenvolvo aplicações e automações com foco em eficiência e organização de processos. 
+Em paralelo, estudo **Front-End**, buscando evoluir tecnicamente e ampliar meu leque de atuação como desenvolvedor.
 
-## 🏢 Experiência Profissional — ABB
-
-Atuo no desenvolvimento de soluções internas voltadas à **automação, digitalização e otimização de processos corporativos**, sempre com foco em eficiência, organização e escalabilidade.
-
-### 🧩 Stack principal:
-- **Power Fx** (nível pleno)
-- **Power Apps**
-- **Power Automate**
-- **Power BI**
-- **Modelagem e integração com bancos de dados relacionais**
-- Automação de fluxos e processos orientados ao negócio
-
-Grande parte do meu trabalho envolve entender processos reais da operação e transformá-los em soluções digitais funcionais, intuitivas e sustentáveis ao longo do tempo.
-
----
-
-## 🚀 Foco de Estudos & Desenvolvimento de Carreira
-
-Embora meu trabalho atual seja fortemente ligado ao **low-code e Power Platform**, meu **objetivo principal de carreira** é me **especializar cada vez mais em Desenvolvimento Front-End**.
-
-### 🎯 Tecnologias em foco:
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **TypeScript**
-- **React**
-- **UI/UX Design**
-- **Responsividade e boas práticas de interface**
-
-Busco evoluir tecnicamente para construir interfaces modernas, performáticas e bem estruturadas, com atenção real à experiência do usuário.
 
 ---
 
@@ -76,11 +47,8 @@ Cada solução é ponto no placar. 🏀🔥
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Contato
 
-- 💼 **LinkedIn:** *(adicione aqui quando quiser)*  
-- 📂 Sempre aberto a trocar ideias, aprender e construir coisas boas
-
-⭐ Se algum projeto fizer sentido pra você, fica à vontade pra deixar uma estrela!
+- 💼 **LinkedIn:** *(https://www.linkedin.com/in/alexandre-a-b008121b2/)*  
 
 
