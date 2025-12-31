@@ -3,8 +3,10 @@
 **`Desenvolvedor | Power Platform | Front-End`**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb252dGMzcmxnY3Zha2Fqb3huNzQ5cW9rZHZnOGJyeWw4a3dkbzgyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTnl3EgLZNtz13owCK/giphy.gif" width="300" />
 </p>
+
+
 
 Olá! 👋  
 Me chamo **Alexandre Arantes**, tenho 21 anos e sou formado em **Análise e Desenvolvimento de Sistemas** pela **FATEC Sorocaba**.  
