@@ -3,7 +3,7 @@
 **`Desenvolvedor | Power Platform | Front-End`**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
+  <img src="[https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3p0eGRxbjNxaW5uNDUycHdja3VvM3g2bnBtNGV1cjR2ZTd0cGRtZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JTnl3EgLZNtz13owCK/giphy.gif)" width="500" />
 </p>
 
 Olá! 👋  
