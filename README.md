@@ -40,6 +40,7 @@ Em paralelo, estudo **Front-End**, buscando evoluir tecnicamente e ampliar meu l
   </a>
 </p>
 
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlexandreArantes252/AlexandreArantes252/output/github-contribution-grid-snake.svg" />
