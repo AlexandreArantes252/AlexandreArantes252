@@ -3,7 +3,7 @@
 **`Desenvolvedor | Power Platform | Front-End`**
 
 <p align="center">
-  <img src="https://br.pinterest.com/pin/18788523437934735/" width="500" />
+  <img src="https://pin.it/5P06wZQH1" width="500" />
 </p>
 
 
