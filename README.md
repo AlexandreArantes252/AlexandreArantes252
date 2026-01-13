@@ -3,7 +3,7 @@
 **`Desenvolvedor | Power Platform | Front-End`**
 
 <p align="center">
-  <img src="./assets/basketball.gif" width="500" border-radius=8px />
+  <img src="./assets/basketball.gif" width="500" border-radius="8" />
 </p>
 
 
